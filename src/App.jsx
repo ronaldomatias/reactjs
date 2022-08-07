@@ -1,17 +1,13 @@
 import React from 'react';
-import Welcome from './components/Welcome';
+import BasePage from './components/BasePage';
+import './css/basepage.css';  
 
 function App() {
-  
-  return (<>
-    <h1>Definindo Componentes</h1>
-    <hr/>
-    <Welcome />
-    <p>...</p>
-    <p>...</p>
-    <p>...</p>
-    <Welcome />
 
+  return (<>
+    <body>
+      <BasePage />
+    </body>
   </>)
 }
 
