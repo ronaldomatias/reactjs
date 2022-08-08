@@ -1,0 +1,33 @@
+.container-produtos {
+    display: flex;
+    background-color: black;
+    height: 25rem;
+    max-width: 30%;
+    width: 40%;
+    margin: 0 auto;
+    padding: 0.5rem;
+    border-radius: 5px;
+    flex-direction: column;
+    border-color: brown;
+    border-style: groove;
+}
+
+.container-produtos img {
+    height: 100%;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.lblProductInfo {
+    color: yellow;
+    margin: 0.5rem auto;
+}
+
+.espacador {
+    display: flex;
+    background-color: blueviolet;
+    margin: 0.5rem auto;
+}
+
+

@@ -1,12 +1,11 @@
 import React from 'react';
-import BasePage from './components/BasePage';
-import './css/basepage.css';  
+import ListarProdutos from './frontend/views/ProdutosMaisVendidos';
+import './frontend/css/index.css'
 
 function App() {
-
   return (<>
     <body>
-      <BasePage />
+      <ListarProdutos />
     </body>
   </>)
 }

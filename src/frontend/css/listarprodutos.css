@@ -1,0 +1,22 @@
+.centro {
+    display: flex;
+    background-color: rgb(6, 3, 27);
+    margin: 0.1rem 0.1rem;
+    max-width: 100%;
+    min-height: 300px;
+    border-radius: 1rem;
+    flex-direction: column;
+    padding: 0.5rem;
+}
+
+.produtos-mais-vendidos {
+    margin: 1rem auto;
+    color: white;
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+
