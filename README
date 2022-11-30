@@ -1,0 +1,7 @@
+Para executar:
+
+1. Download do projeto.
+2. Excluir a pasta "node_modules".
+3. Excluir o arquivo "package-lock.json".
+4. Instalar npm: npm install.
+5. Subir a aplicação: npm run dev.
