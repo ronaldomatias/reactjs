@@ -1,0 +1,10 @@
+
+.div-header {
+    display: flex;
+    margin: 0.1em 0.1em;
+    padding: 5px;
+    height: 10rem;
+    background-image: url("/src/images/banner.png");
+    background-size: 100%;
+}
+

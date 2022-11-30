@@ -1,12 +1,14 @@
 import React from 'react';
-import ListarProdutos from './frontend/views/ProdutosMaisVendidos';
-import './frontend/css/index.css'
+import Center from './components/center/Center';
+import Header from './components/header/Header';
+import './frontend/css/body/body.css'
 
 function App() {
   return (<>
-    <body>
-      <ListarProdutos />
-    </body>
+  <body>
+    <Header />
+    <Center />
+  </body>
   </>)
 }
 
